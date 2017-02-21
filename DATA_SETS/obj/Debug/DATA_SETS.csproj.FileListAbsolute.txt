@@ -1,0 +1,9 @@
+c:\users\usuario\documents\visual studio 2015\Projects\DATA_SETS\DATA_SETS\bin\Debug\DATA_SETS.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\DATA_SETS\DATA_SETS\bin\Debug\DATA_SETS.exe
+c:\users\usuario\documents\visual studio 2015\Projects\DATA_SETS\DATA_SETS\bin\Debug\DATA_SETS.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\DATA_SETS\DATA_SETS\obj\Debug\DATA_SETS.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\DATA_SETS\DATA_SETS\obj\Debug\DATA_SETS.Form1.resources
+c:\users\usuario\documents\visual studio 2015\Projects\DATA_SETS\DATA_SETS\obj\Debug\DATA_SETS.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2015\Projects\DATA_SETS\DATA_SETS\obj\Debug\DATA_SETS.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2015\Projects\DATA_SETS\DATA_SETS\obj\Debug\DATA_SETS.exe
+c:\users\usuario\documents\visual studio 2015\Projects\DATA_SETS\DATA_SETS\obj\Debug\DATA_SETS.pdb
